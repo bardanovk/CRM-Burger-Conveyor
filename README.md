@@ -1,2 +1,3 @@
-# CRM-SC
-CRM для сервисных сервисов. React + Redux + NestJS + Postgresql
+# ERP-Burger-Conveyor
+
+ERP для бургерной. React + Redux + NestJS + Postgresql
