@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "client-profile": "apps/client-profile",
+    "client-profile-e2e": "apps/client-profile-e2e",
+    "server-auth": "apps/server-auth",
+    "server-hr": "apps/server-hr"
+  }
+}
